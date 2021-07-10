@@ -53,5 +53,5 @@ structures and algorithms.
 
 ## Resources
 
-1. [](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+1. [Data Structure & Algorithm Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
